@@ -1,15 +1,16 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
-      "cwd": "/Users/scottvu/Documents/VSCode/Programs/XCode-GitHub-Test",
+      "cwd": "/Users/scottvu/Documents/VSCode/Programs/XCode-GitHub-Test/XCode-GitHub-Test",
       "environment": [],
-      "program": "/Users/scottvu/Documents/VSCode/Programs/XCode-GitHub-Test/build/Debug/outDebug",
+      "program": "/Users/scottvu/Documents/VSCode/Programs/XCode-GitHub-Test/XCode-GitHub-Test/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "externalConsole": true
